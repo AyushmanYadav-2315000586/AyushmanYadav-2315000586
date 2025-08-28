@@ -7,7 +7,7 @@
 </p>
 
 ## 🧑‍💻 About Me
-python
+```python
 class Ayushman:
     def __init__(self):
         self.name = "Ayushman Yadav"
@@ -15,7 +15,7 @@ class Ayushman:
         self.education = "B.Tech CSE @ GLA University"
         self.interests = ["Software Engineering", "Problem Solving", "Web Development"]
         self.current_focus = "Building robust software solutions with JavaScript"
-
+```
 
 ## 🛠 Skills & Tools
 <div align="center">
