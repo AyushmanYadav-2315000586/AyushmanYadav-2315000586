@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ayushman Yadav</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineer+%7C+C%2B%2B+Developer;Computer+Science+Student;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineer+%7C+Java+Developer;Computer+Science+Student;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</a>
 
 ## 🧑‍💻 About Me
 ```python
